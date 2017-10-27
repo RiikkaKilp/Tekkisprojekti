@@ -23,7 +23,7 @@ Tervetuloa k‰ytt‰‰n gitti‰! T‰ss‰ nopea tiivistelm‰ ett‰ mit‰s helvetti‰:
 Miten tekem‰ni muutokset n‰kyv‰t muille?
 
 1. Jotta tekem‰si muutokset n‰kyv‰t muille, avaa GitHub Desktop ja tarkista ett‰ valittuna
-   repona on "Tekkisprojekti" (kohta A.)
+   repona on "Tekkisprojekti" (kuva GitHub_Instructions03.png, kohta A.)
 2. Jos olet tehnyt muutoksia repossa oleviin tiedostoihin, n‰kyy "Changes" kohdan vieress‰
    pieni sininen pallo (kohta B.)
 3. T‰m‰n j‰lkeen valitaan kaikki tiedostot, joiden muutokset haluat "pushata" muille n‰ht‰v‰ksi
@@ -42,8 +42,10 @@ Miten tekem‰ni muutokset n‰kyv‰t muille?
 	Summary: 	Edited PlayerMovement script
 	Description: 	Added the ability to jump, fixed mouse controll and balanced the 
 			cooldown on ability X.
+
 6. T‰m‰n j‰lkeen painetaan nappia "Commit to master" (kohta F.)
-7. Ja nyt tekemiesi muutosten pit‰isi n‰ky‰ muillakin!
+7. T‰m‰n j‰lkeen paina nappia "Push origin" (kohta G.)
+8. Ja nyt tekemiesi muutosten pit‰isi n‰ky‰ muillakin!
 
 	!-HOX-! Tehk‰ mieluiten niin, ett‰ tyˆst‰k‰‰ yksi asia loppuun, pushatkaa se, jonka j‰lkeen teette toisen
 	!-HOX-!	asian ja pushaatte sen. N‰in pidet‰‰n repon historia siistin‰ ja jos jotain menee rikki, n‰hd‰‰n
@@ -51,4 +53,5 @@ Miten tekem‰ni muutokset n‰kyv‰t muille?
 
 Miten n‰en muiden tekem‰t muutokset?
 
-1. Jotta n‰et muiden tekem‰t muutokset, paina vain "Fetch origin" nappia GitHub Desktopin yl‰reunassa.
+1. Jotta n‰et muiden tekem‰t muutokset, paina vain "Fetch origin" nappia GitHub Desktopin yl‰reunassa. Nyt muiden
+   tekemien muutosten ja lis‰‰mien tiedostojen pit‰isi n‰ky‰ kansiossa.
